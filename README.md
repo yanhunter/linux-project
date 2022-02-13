@@ -1,6 +1,6 @@
 # linux-project 
 
-菜鸟的私房菜
+鸟哥的私房菜
 
 http://shouce.jb51.net/vbird-linux-basic-4/73.html
 
